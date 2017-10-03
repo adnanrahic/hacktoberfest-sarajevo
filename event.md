@@ -13,4 +13,4 @@ Naš glavni sponzor HUB387 nam je obezbijedio prostor, "snacks and drinks" za ci
 Edukativni sponzor Bookvar će držati edukativne radionice za sve uzraste i vještine programiranja!
 
 #### Šta je Sarajevo Hacktoberfest Open Hack Day?
-Prvi sarajevski Hacktoberfest je događaj koji će spojiti našu open source zajednicu na zanimljiv i inovativan način. Ovo online slavlje će se prenijeti i na offline druženje, po prvi put u našem glavnom gradu!
+Prvi sarajevski Hacktoberfest je događaj koji će spojiti našu open source zajednicu na zanimljiv i inovativan način. Ovo online slavlje će se prenijeti i na offline druženje, po prvi put u našem glavnom gradu! Mjesto održavanja su prostorije HUB387 u zgradi Bosmala. Vidimo se u subotu!
