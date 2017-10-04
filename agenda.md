@@ -15,7 +15,9 @@
 ### 12:20-12:30: Predstavljanja maintainer-a
  - Lični doživljaji open source maintainera i contributora
 
-### 12:30-12:45: Workshop - Uvod u Open Source
+### 10 min pauza i kafa
+
+### 12:40-13:10: Workshop - Uvod u Open Source
 - Speaker: Naida Zekić - Dev Manager @ Bookvar
 - Šta je open source?
 - Zašto open source?
@@ -23,27 +25,34 @@
 - https://opensource.guide/starting-a-project/
 - https://opensource.guide/how-to-contribute/
 
-### 12:45-13:00: Workshop - Microsoft & Open Source
+### 20 min pauza i kafa
+
+### 13:30-13:50: Workshop - Microsoft & Open Source
 - Speaker: Almir Vuk - Dev @ App Impact
 
-### 14:00-14:30: Workshop - Git Osnove
+### 14:00-14:20: Workshop - Git Osnove
 - Speaker: Sven Zaimović - Dev @ Bookvar
 - https://try.github.io/levels/1/challenges/1
 
-### 14:30-15:00: Workshop - Biti Contributor 
+### 40 min ručak
+
+### 15:00-15:30: Workshop - Biti Contributor 
 - Speaker: Adnan Rahić - Dev, teacher & mentor @ Bookvar
 - Kako biti contributor?
 - Kako napraviti pull request? 
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
-### 16:00-16:30: Workshop - Test Driven Development
+### 15:35 - 16:00: Workshop - Kako naći projekat na kojem biti kontributor?
+- Speaker: \<ubaci svoje ime\>
+- Listanje popularnih GitHub repozitorija
+- Kako izabrati?
+
+### 20 min pauza i kafa
+
+### 16:20-16:50: Workshop - Test Driven Development
 - Speaker: Adnan Rahić - Dev, teacher & mentor @ Bookvar
 - Šta je Test driven development?
 - Šta znači "code coverage"?
-
-### 16:45 - 17:00: Workshop - Kako naći projekat na kojem biti kontributor
- - Listanje popularnih GitHub repozitorija
- - Kako izabrati?
 
 ### Hack time: slobodno vrijeme za kodiranje - Cijeli dan
  
