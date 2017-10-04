@@ -23,7 +23,7 @@
 - https://opensource.guide/starting-a-project/
 - https://opensource.guide/how-to-contribute/
 
-### 12:45-13:00: Workshop - Microsoft <3 Open Source
+### 12:45-13:00: Workshop - Microsoft & Open Source
 - Speaker: Almir Vuk - Dev @ App Impact
 
 ### 14:00-14:30: Workshop - Git Osnove
