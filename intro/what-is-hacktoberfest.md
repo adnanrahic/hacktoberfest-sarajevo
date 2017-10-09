@@ -1,0 +1,18 @@
+# Sta je Hacktoberfest?
+
+Hacktoberfest - u partnerstvu sa GitHub-om - je mjesec dana dugo slavlje open source softvera. Maintainer-i su pozvani da pomognu novim, potencijalnim contributor-ima kako se uključiti u proces rješavanja problema i kako pomoći u razvoju projekta. Contributor-e želimo da ohrabrimo da se uključe u zajednicu i da aktivno doprinose projektima koje koriste i koje vole.
+
+Sta ovo znaci? Open source softver je sva vrsta softvera koji je besplatan. Koristenje tog softvera ne zahtijeva nikakvo placanje niti dodatne troskove. Na takvim projektima postoje ljudi zaduzeni za razvijanje softvera. Maintainer-i su programeri cija je primarna odgovornost da odrzavaju softver i da ga unaprijedjuju na redovnoj bazi. Dok su kontributor-i vanjski saradnici. Oni nisu direktno ukljuceni na odrzavanje softvera ali nude svoje usluge za popravku ili unaprijedjenje nekih funkcionalnosti softvera.
+
+Danas cemo mi biti kontributori! Ali pored toga cemo i slusati price drugih kontributora i maintainera koji su vec radili i rade na open source projektima.
+
+Nijedna kontribucija nije mala. Popravke bugova i pisanje dokumentacije su sve validni načini učešća. Ova godina obilježava četvrtu zaredom kako se održava Hacktoberfest.
+
+# Pravila
+
+Za učešće prijavite se na oficijelnom Hacktoberfest site-u. Cilj je da se naprave 4 Pull Requesta. Sad sta je to?
+
+**Pull request** govori drugima o promjenama koje si ti gurnuo na neku GitHub repozitoriju. Kad je poslan **pull request** svi ostali programeri ukljuceni na projektu mogu pregledati promjene, pricati o buducim prilagodbama i naravno sami gurnuti svoje promjene. Ako maintainer na projektu odluci da su promjene dobre, onda moze uraditi merge na glavni repozitorij.
+
+Ukoliko napravite četiri pull request-a da kraja oktobra dobit ćete besplatnu majicu. Pull request-i ne trebaju biti merge-irani, samo otvoreni.
+
