@@ -36,22 +36,25 @@
 
 ### 40 min ručak
 
-### 15:00-15:30: Workshop - **Biti Contributor** 
+### 15:00-15:20: Workshop - **Biti Contributor** 
 - Speaker: Adnan Rahić - Dev, teacher & mentor @ [Bookvar](https://bookvar.co/all)
 - Kako biti contributor?
 - Kako napraviti pull request? 
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
-### 15:35 - 16:00: Workshop - **Kako pronaći projekat na kojem biti kontributor?**
+### 15:30 - 15:50: Workshop - **Kako pronaći projekat na kojem biti kontributor?**
 - Speaker: Vildan Tursić - Dev @ Tech387 
 - Listanje popularnih GitHub repozitorija
 - Kako izabrati?
 
 ### 20 min pauza i kafa
 
-### 16:20-16:50: **Workshop - Test Driven Development**
+### 16:10-16:30: **Workshop - Moja priča, doprinos Open Source zajednici**
+- Speaker: Sulejman Sarajlija - Dev @ Altcoin Exchange
+
+### 16:40-17:00: **Workshop - "Explaining software testing like I'm five"**
 - Speaker: Adnan Rahić - Dev, teacher & mentor @ [Bookvar](https://bookvar.co/all)
-- Šta je Test driven development?
+- Šta je Software Testing?
 - Šta znači "code coverage"?
 
 ### Cijeli dan: **Hack time - Slobodno vrijeme za kodiranje**
@@ -61,3 +64,4 @@
 - [Adnan Kičin](https://www.linkedin.com/in/adnan-ki%C4%8Din-bb1885127/) - Dev @ Datazup and a generally funny guy
 - [Naida Zekić](https://www.linkedin.com/in/naida-zeki%C4%87-3069323b/) - Dev Manager @ Bookvar
 - [Mia Koprivica](https://www.linkedin.com/in/mia-koprivica-038221151/) - Teacher @ Bookvar
+- [Sven Zaimović](https://www.linkedin.com/in/sven-zaimovic-64937257/) - Dev @ Bookvar
