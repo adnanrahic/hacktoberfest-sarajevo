@@ -18,7 +18,7 @@
 ### 10 min pauza i kafa
 
 ### 12:40-13:10: Workshop - **Uvod u Open Source**
-- Speaker: Naida Zekić - Dev Manager @ Bookvar
+- Speaker: Naida Zekić - Dev Manager @ [Bookvar](https://bookvar.co/all)
 - Šta je open source?
 - Zašto open source?
 - Zašto biti contributor?
@@ -31,26 +31,26 @@
 - Speaker: Almir Vuk - Dev @ App Impact
 
 ### 14:00-14:20: Workshop - **Git Osnove**
-- Speaker: Sven Zaimović - Dev @ Bookvar
+- Speaker: Sven Zaimović - Dev @ [Bookvar](https://bookvar.co/all)
 - https://try.github.io/levels/1/challenges/1
 
 ### 40 min ručak
 
 ### 15:00-15:30: Workshop - **Biti Contributor** 
-- Speaker: Adnan Rahić - Dev, teacher & mentor @ Bookvar
+- Speaker: Adnan Rahić - Dev, teacher & mentor @ [Bookvar](https://bookvar.co/all)
 - Kako biti contributor?
 - Kako napraviti pull request? 
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
 ### 15:35 - 16:00: Workshop - **Kako pronaći projekat na kojem biti kontributor?**
-- Speaker: (ubaci svoje ime, otvoreni smo za prijave) 
+- Speaker: Vildan Tursić - Dev @ Tech387 
 - Listanje popularnih GitHub repozitorija
 - Kako izabrati?
 
 ### 20 min pauza i kafa
 
 ### 16:20-16:50: **Workshop - Test Driven Development**
-- Speaker: Adnan Rahić - Dev, teacher & mentor @ Bookvar
+- Speaker: Adnan Rahić - Dev, teacher & mentor @ [Bookvar](https://bookvar.co/all)
 - Šta je Test driven development?
 - Šta znači "code coverage"?
 
