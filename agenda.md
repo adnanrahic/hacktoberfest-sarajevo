@@ -52,7 +52,7 @@
 ### 16:10-16:30: **Workshop - Moja priča, doprinos Open Source zajednici**
 - Speaker: Sulejman Sarajlija - Dev @ Altcoin Exchange
 
-### 16:40-17:00: **Workshop - "Explaining software testing like I'm five"**
+### 16:40-17:00: **Workshop - "Explain testing to me like I'm five"**
 - Speaker: Adnan Rahić - Dev, teacher & mentor @ [Bookvar](https://bookvar.co/all)
 - Šta je Software Testing?
 - Šta znači "code coverage"?
