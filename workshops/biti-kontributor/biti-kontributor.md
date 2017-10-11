@@ -1,4 +1,4 @@
-# 15:00-15:30: Workshop - Biti Contributor
+# 15:00-15:30: Workshop - Kako biti kontributor?
 - Speaker: Adnan Rahić - Dev, teacher & mentor @ Bookvar
 - Kako biti contributor?
 - Kako napraviti pull request?
