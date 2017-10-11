@@ -107,4 +107,18 @@ Merge the changes from the original repo
 $ git merge upstream/master
 ```
 
-Now your forks master is synced with the original repo's master. Go ahead and sync your forks master with your branch.
+Now your fork's master is synced with the original repo's master. Go ahead and sync your forks master with your branch.
+```sh
+$ git checkout new-branch
+$ git merge master
+```
+Now you've avoided conflicting code because you're making sure your local branch is up to date with the upstream's master.
+
+### Create a Pull Request
+Navigate to forked repo - press "New pull request".
+Choose what branch include in the pull request.
+
+**demo**
+show:
+- go to forked repo and press pull request
+- go to original repo and show pull request option
