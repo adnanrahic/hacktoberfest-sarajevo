@@ -2,9 +2,11 @@
 
 Hacktoberfest - u partnerstvu sa GitHub-om - je mjesec dana dugo slavlje open source softvera. Maintainer-i su pozvani da pomognu novim, potencijalnim contributor-ima kako se uključiti u proces rješavanja problema i kako pomoći u razvoju projekta. Contributor-e želimo da ohrabrimo da se uključe u zajednicu i da aktivno doprinose projektima koje koriste i koje vole.
 
-Sta ovo znaci? Open source softver je sva vrsta softvera koji je besplatan. Koristenje tog softvera ne zahtijeva nikakvo placanje niti dodatne troskove. Na takvim projektima postoje ljudi zaduzeni za razvijanje softvera. Maintainer-i su programeri cija je primarna odgovornost da odrzavaju softver i da ga unaprijedjuju na redovnoj bazi. Dok su kontributor-i vanjski saradnici. Oni nisu direktno ukljuceni na odrzavanje softvera ali nude svoje usluge za popravku ili unaprijedjenje nekih funkcionalnosti softvera.
+Hacktoberfest - u partnerstvu sa GitHub-om - je mjesec dana dugo slavlje open source softvera. Programeri koji aktivno doprinose i odrzavaju open source softver su pozvani da pomogni novim potencijalnim programerima koji takodjer zele da daju svoj doprinos open source-u. Ovdje smo da naucimo kako se ukljuciti u proces doprinosa nekom open source projektu, i sta znace termini open source, maintainer i contributor.
 
-Danas cemo mi biti kontributori! Ali pored toga cemo i slusati price drugih kontributora i maintainera koji su vec radili i rade na open source projektima.
+Open source softver je sva vrsta softvera koji je besplatan. Koristenje tog softvera ne zahtijeva nikakvo placanje niti dodatne troskove. Na takvim projektima postoje ljudi zaduzeni za razvijanje softvera. Oni se zovu Maintainer-i. Maintainer-i su programeri cija je primarna odgovornost da odrzavaju softver i da ga unaprijedjuju na redovnoj bazi. Dok su kontributor-i vanjski saradnici. Oni nisu direktno ukljuceni na odrzavanju softvera ali nude svoje usluge za popravku ili unaprijedjenje nekih funkcionalnosti softvera.
+
+Danas cemo mi biti kontributori! Ali pored toga cemo i slusati price drugih kontributora i maintainera koji su vec radili ili trenutno rade na open source projektima.
 
 Nijedna kontribucija nije mala. Popravke bugova i pisanje dokumentacije su sve validni načini učešća. Ova godina obilježava četvrtu zaredom kako se održava Hacktoberfest.
 
