@@ -12,6 +12,6 @@ Nijedna kontribucija nije mala. Popravke bugova i pisanje dokumentacije su sve v
 
 Za učešće prijavite se na oficijelnom Hacktoberfest site-u. Cilj je da se naprave 4 Pull Requesta. Sad sta je to?
 
-**Pull request** govori drugima o promjenama koje si ti gurnuo na neku GitHub repozitoriju. Kad je poslan **pull request** svi ostali programeri ukljuceni na projektu mogu pregledati promjene, pricati o buducim prilagodbama i naravno sami gurnuti svoje promjene. Ako maintainer na projektu odluci da su promjene dobre, onda moze spojiti tu promjenu sa glavnim code-om. To se zove mergiranje pull request-a.
+**Pull request** govori drugim programerima o promjenama koje si ti uradio na nekom open source projektu. Kad je poslan **pull request** svi ostali programeri ukljuceni na projektu mogu pregledati promjene, pricati o buducim prilagodbama i naravno sami gurnuti svoje promjene. Ako maintainer na projektu odluci da su promjene dobre, onda moze spojiti tu promjenu sa glavnim code-om. To se zove mergiranje pull request-a.
 
 Ukoliko napravite četiri pull request-a da kraja oktobra dobit ćete besplatnu majicu. Pull request-i ne trebaju biti merge-irani, samo otvoreni.
