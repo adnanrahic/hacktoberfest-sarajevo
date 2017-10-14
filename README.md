@@ -10,7 +10,7 @@
 
 - [Uvod u Open Source](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/uvod-u-open-source)
 - [Git Osnove](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/git-osnove)
-- [Open source from Microsoft with love](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/open-source-from-microsoft-with-love)
+- [Open source from Microsoft with love](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/microsoft-%3C3-open-source)
 - [Biti Contributor](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/biti-kontributor)
-- [Kako izabrati repo na kojem biti contributor?](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/kako-izabrati-repo-na-kojem-biti-contributor)
+- [Kako izabrati repo na kojem biti contributor?](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/kako-izabrati-repo-na-kojem-biti-kontributor)
 - ["Explain testing to me like I'm Five"](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/explain-testing-to-me-like-im-five)
