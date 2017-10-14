@@ -5,3 +5,12 @@
 1. [Agenda](https://github.com/adnanrahic/hacktoberfest-sarajevo/blob/master/agenda.md)
 2. [Event info](https://github.com/adnanrahic/hacktoberfest-sarajevo/blob/master/event.md)
 3. [Prizes](https://github.com/adnanrahic/hacktoberfest-sarajevo/blob/master/event.md#pravila-i-nagrade)
+
+# Workshops
+
+- [Uvod u Open Source](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/uvod-u-open-source)
+- [Git Osnove](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/git-osnove)
+- [Open source from Microsoft with love](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/open-source-from-microsoft-with-love)
+- [Biti Contributor](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/biti-kontributor)
+- [Kako izabrati repo na kojem biti contributor?](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/kako-izabrati-repo-na-kojem-biti-contributor)
+- ["Explain testing to me like I'm Five"](https://github.com/adnanrahic/hacktoberfest-sarajevo/tree/master/workshops/explain-testing-to-me-like-im-five)
